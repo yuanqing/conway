@@ -1,0 +1,23 @@
+{
+  "name": "conway",
+  "version": "0.0.0",
+  "description": "An implementation of Conway's Game of Life in JavaScript and Canvas.",
+  "author": "Lim Yuan Qing",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yuanqing/conway.git"
+  },
+  "devDependencies": {
+    "autoprefixer": "^5.1.0",
+    "jshint": "^2.6.0"
+  },
+  "scripts": {
+    "lint": "jshint --verbose js/*.js"
+  },
+  "keywords": [
+    "canvas",
+    "conway",
+    "game"
+  ]
+}
