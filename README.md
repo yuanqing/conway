@@ -1,4 +1,4 @@
-# conway.js [![Version](https://img.shields.io/badge/version-v0.0.0-orange.svg?style=flat)](https://github.com/yuanqing/conway/releases)
+# conway.js [![Version](https://img.shields.io/badge/version-v0.1.0-orange.svg?style=flat)](https://github.com/yuanqing/conway/releases)
 
 > An implementation of [Conway&rsquo;s Game of Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in JavaScript and Canvas.
 
