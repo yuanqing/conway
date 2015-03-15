@@ -1,5 +1,4 @@
 (function(fn) {
-  /* istanbul ignore if  */
   if (typeof module === 'undefined') {
     this.Conway = fn();
   } else {
@@ -65,8 +64,6 @@
         });
       });
     };
-
-    this.init = init;
 
     this.set = function(i, j) {
       if (i > -1 && i < width && j > -1 && j < height) {
