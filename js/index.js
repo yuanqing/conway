@@ -8,7 +8,7 @@
   var HEIGHT = REAL_HEIGHT / PIXEL;
   var COLOURS = [
     [ '#ddd', '#eee' ],
-    [ '#fe8', '#fd0' ],
+    [ '#fe8', '#fd0' ]
   ];
 
   var canvas = document.querySelectorAll('canvas')[0];
